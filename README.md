@@ -3,7 +3,7 @@
 ### CONCEPT
 Forkify is a website to search for recipes from an API, which in its turn aggregates recipes from many different sources on the internet. The app also allows users to add their own recipes to the application, which will, however, only be visible to them. Other app features are the possibility to bookmark your favourite recipes, and the ability to change the servings, reflecting on the recipe's ingredients measure.
 
-App deployed in: [https://crwn-clothing-delight.netlify.app/](https://forkify-delight.netlify.app/)
+App deployed in: [https://forkify-delight.netlify.app/](https://forkify-delight.netlify.app/)
 
 ### PROJET CHARACTERISTICS 
 The project is a SPA built using ES6 modern features, like classes, modules and async/await, and following the Model-View-Controller (MVC) architecture. For bundling the files, the project uses Parcel, and for styling, Sass.
