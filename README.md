@@ -32,4 +32,7 @@ To run the application, execute:
 ```bash
 npm start
 ```
-The app is going to run on [127.0.0.1:1234](http://127.0.0.1:1234/).
+The app will attempt to run on port [127.0.0.1:1234](http://127.0.0.1:1234/).
+
+### DISCLAIMER
+This project was made during the course *The Complete JavaScript Course 2022: From Zero to Expert!*. Although an assignment project, I coded it entirely by myself, not copying a single line from sources provided by the course.
